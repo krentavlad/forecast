@@ -10,7 +10,9 @@ https://www.npmjs.com/get-npm
 ```npm install
    npm start
 ```
-## Technologies
+### See website on http://localhost:3000/
+
+### Technologies:
 React.js, Es6, Axios, Openweather API.
 
 ##### Screenshot
