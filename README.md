@@ -1,5 +1,10 @@
-# weather-redux
-A weather forecasting app to handle dynamic viz using react-plotly
+## Features:
 
+###### See and compare weather in different cities
+###### Shows Temperature	Pressure	Humidity
 
-![alter text](snapshot.png)
+## To run app:
+
+```npm install
+   npm start
+```
