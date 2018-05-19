@@ -21,3 +21,5 @@ React.js, Es6, Axios, Openweather API.
 ##### Screenshot
 
 ![screen shot 2018-05-19 at 14 26 17](https://user-images.githubusercontent.com/39372609/40268589-c9f964f4-5b70-11e8-880d-6740f2c5215e.png)
+
+![screen shot 2018-05-19 at 14 38 00](https://user-images.githubusercontent.com/39372609/40268697-4132f836-5b72-11e8-9b4f-37cd333c5ca7.png)
