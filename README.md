@@ -4,11 +4,14 @@
 ###### Shows Temperature	Pressure	Humidity
 
 ## To run app:
+Install npm and node
+https://www.npmjs.com/get-npm
 
 ```npm install
    npm start
 ```
-
+## Technologies
+React.js, Es6, Axios, Openweather API.
 
 ##### Screenshot
 
