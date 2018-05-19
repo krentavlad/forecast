@@ -8,3 +8,8 @@
 ```npm install
    npm start
 ```
+
+
+##### Screenshot
+
+![screen shot 2018-05-19 at 14 26 17](https://user-images.githubusercontent.com/39372609/40268589-c9f964f4-5b70-11e8-880d-6740f2c5215e.png)
