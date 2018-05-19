@@ -7,7 +7,10 @@
 Install npm and node
 https://www.npmjs.com/get-npm
 
-```npm install
+```
+   npm install  
+```
+```
    npm start
 ```
 ### See website on http://localhost:3000/
